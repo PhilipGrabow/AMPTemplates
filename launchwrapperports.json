@@ -1,9 +1,0 @@
-[
-    {
-        "Protocol": "TCP",
-        "Port": "25565",
-        "Name": "Minecraft Server",
-        "Description": "Port used for main game traffic",
-        "Ref": "MinecraftServer"
-    }
-]
