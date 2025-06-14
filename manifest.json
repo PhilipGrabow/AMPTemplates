@@ -3,8 +3,8 @@
     "authors": [
         " - Made with AMP Config Generator"
     ],
-    "origin": "http://192.168.1.11/root/amptemplates.git",
-    "url": "http://192.168.1.11/root/amptemplates",
+    "origin": "http://github.com/PhilipGrabow/amptemplates.git",
+    "url": "http://github.com/PhilipGrabow/amptemplates",
     "imagefile": "",
     "prefix": "LaunchWrapper"
 }
