@@ -1,7 +1,0 @@
-{
-  "executable": "bash",
-  "arguments": "start.sh",
-  "workingDirectory": ".",
-  "isLongRunning": true,
-  "consoleCapture": "StandardIO"
-}
