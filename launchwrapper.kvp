@@ -31,6 +31,3 @@ Meta.EndpointURIFormat=
 Meta.OS=2
 Meta.URL=
 GenericModule.Meta.AppConfigId=launchwrapper
-GenericModule.Meta.MinAMPVersion=2.6.0.0
-GenericModule.Meta.DisplayName=LaunchWrapper
-GenericModule.Meta.Description=Wrapper zum automatischen Plugin-Download
